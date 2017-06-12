@@ -1,0 +1,24 @@
+{
+  "name": "hash-tables",
+  "version": "0.0.1",
+  "description": "lab 35",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "hash",
+    "tables"
+  ],
+  "author": "Cameron Bacon",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "debug": "^2.6.8",
+    "faker": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
